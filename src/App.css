@@ -1,0 +1,23 @@
+html,
+body {
+  background-color: rgb(26, 24, 29);
+  color: white;
+}
+
+h1,
+p {
+  font-size: 2.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+button{
+  font-size: 1.2rem;
+  padding: 1rem 0rem;
+  width: 10rem;
+}
+
+.btn-container{
+  display: flex;
+  justify-content: space-evenly;
+}
